@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://portfolio-mukul018.herokuapp.com/](https://portfolio-mukul018.herokuapp.com/)
 
-- 📫 How to reach me **mukul018@hotmail.com**
+- 📫 How to reach me **mukul6221@gmail.com**
 
 - ⚡ Fun fact **What about having a Coffee ?**
 
@@ -13,7 +13,7 @@
 <p align="left">
 <a href="https://twitter.com/_mukul018" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_mukul018" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/mukul018" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mukul018" height="30" width="40" /></a>
-<a href="https://instagram.com/mukul018" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mukul018" height="30" width="40" /></a>
+<a href="https://instagram.com/mukul018" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mukul.ksp" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/mukul_018" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="mukul_018" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/mukul018" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="mukul018" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/mukul018" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="mukul018" height="30" width="40" /></a>
