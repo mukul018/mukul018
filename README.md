@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **React.js**
 
-- 👨‍💻 All of my projects are available at [https://portfolio-mukul018.herokuapp.com/](https://portfolio-mukul018.herokuapp.com/)
+- 👨‍💻 All of my projects are available at [https://portfolio-mukul018.vercel.app/](https://portfolio-mukul018.vercel.app/)
 
 - 📫 How to reach me **mukul6221@gmail.com**
 
