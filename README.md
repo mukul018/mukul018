@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mukul Kumar</h1>
 <h3 align="center">A passionate programmer and developer</h3>
 
-- 🌱 I’m currently learning **React.js**
-
-- 👨‍💻 All of my projects are available at [https://portfolio-mukul018.vercel.app/](https://portfolio-mukul018.vercel.app/)
+- 🌱 I’m currently learning **AWS**
 
 - 📫 How to reach me **mukul6221@gmail.com**
 
